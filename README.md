@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="750" src="[https://i.imgur.com/jQOlkyk.png](https://i.postimg.cc/Z5ZFvCb8/Auto-Arch-Chroot-Qt6-Appimage-2-2-2025.png)" alt="logo">
+    <img width="750" src="https://i.postimg.cc/Z5ZFvCb8/Auto-Arch-Chroot-Qt6-Appimage-2-2-2025.png" alt="logo">
 </p>
 
 <div align="center">
