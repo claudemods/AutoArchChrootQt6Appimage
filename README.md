@@ -31,12 +31,15 @@
 <div align="center">
 claudemods Auto Arch Chroot Qt6 AppImage
 	</div>
- </div>
+
+<div align="center">
 easy qt6 appimage to mount a ext4 drive  e.g sda2
-</div>
+
+<div align="center">
 
 
-</div>
+
+<div align="center">
 
 other options include updating grub and generating initramfs also you can enter your own command
 
